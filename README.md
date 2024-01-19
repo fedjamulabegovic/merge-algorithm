@@ -8,5 +8,5 @@ Features
     Naive Bayes Classifier: Utilizes Multinomial Naive Bayes for text classification.
     Accuracy Measurement: Evaluates classification performance using accuracy metrics.
 
-Usage
+Usage:
 Run text_classifier.py to execute the classification process on your dataset. The script includes functions for data preprocessing, feature extraction, and classification.
