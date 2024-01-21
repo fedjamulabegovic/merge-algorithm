@@ -22,5 +22,5 @@ This project showcases an implementation of the merge sort algorithm within the 
 
 ## Installation and Usage
 1. Ensure Python 3.x is installed along with necessary libraries (`numpy`, `sklearn`, `nltk`).
-2. The merge sort algorithm is integrated into the text processing script `text_classification.py`.
-3. Run the script to see the merge sort algorithm in action within the context of text classification.
+2. The merge sort algorithm is the main focus of the script `merge_algorithm.py`.
+3. Run the script `python merge_algorithm.py` to see the merge sort algorithm in action.
