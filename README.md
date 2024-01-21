@@ -22,5 +22,4 @@ This project showcases an implementation of the merge sort algorithm within the 
 
 ## Installation and Usage
 1. Ensure Python 3.x is installed along with necessary libraries (`numpy`, `sklearn`, `nltk`).
-2. The merge sort algorithm is the main focus of the script `merge_algorithm.py`.
-3. Run the script `python merge_algorithm.py` to see the merge sort algorithm in action.
+2. Run the script `python merge_algorithm.py` to see the merge sort algorithm in action.
